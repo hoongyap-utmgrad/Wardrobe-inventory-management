@@ -1,0 +1,10 @@
+{
+  "name": "Digital Closet & AI Stylist",
+  "description": "Smart Android digital closet inventory app with camera capture, wear frequency logging, outfit recommendations based on weather, and laundry status tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
